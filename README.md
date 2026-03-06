@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Darshik Ladhe
+# Hey there 👋 I'm Darshik Ladhe
 
 💻 Computer Science Student passionate about building software, solving problems, and learning modern technologies.
 
@@ -24,19 +24,6 @@ I enjoy working on **web development, APIs, and problem solving**, and I'm curre
 - JavaScript
 - HTML
 - CSS
-
-### Frameworks & Libraries
-
-- React
-- TailwindCSS
-- Node.js
-- Express.js
-
-### Tools & Technologies
-
-- Git
-- GitHub
-- Vite
 
 ---
 

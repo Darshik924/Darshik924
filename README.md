@@ -2,8 +2,6 @@
 
 💻 Computer Science Student passionate about building software, solving problems, and learning modern technologies.
 
-I enjoy working on **web development, APIs, and problem solving**, and I'm currently focused on improving my **Data Structures & Algorithms and full-stack development skills**.
-
 ---
 
 ## 🚀 About Me

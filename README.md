@@ -9,8 +9,6 @@ I enjoy working on **web development, APIs, and problem solving**, and I'm curre
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Building projects using **React, Node.js and modern web tools**
 - 📚 Interested in **software engineering and scalable systems**
 - ⚡ Always curious to learn new technologies
 
@@ -29,7 +27,6 @@ I enjoy working on **web development, APIs, and problem solving**, and I'm curre
 
 ## 🌱 Currently Learning
 
-- Advanced Data Structures
 - System Design fundamentals
 - Backend architecture
 - Open source collaboration

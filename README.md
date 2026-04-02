@@ -8,27 +8,7 @@
 
 - 🎓 Computer Science Student
 - 📚 Interested in **software engineering and scalable systems**
-- ⚡ Always curious to learn new technologies
 - 👤 Find me At **[kamistack.info](https://www.kamistack.info)**
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-- C++
-- JavaScript
-- HTML
-- CSS
-
----
-
-## 🌱 Currently Learning
-
-- System Design fundamentals
-- Backend architecture
-- Open source collaboration
 
 ---
 

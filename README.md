@@ -8,7 +8,6 @@
 
 - 🎓 Computer Science Student
 - 📚 Interested in **software engineering and scalable systems**
-- 👤 Find me At **[kamistack.info](https://www.kamistack.info)**
 
 ---
 

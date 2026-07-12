@@ -1,13 +1,5 @@
-<h1 align="center">Hey there, I'm Darshik Ladhe 👋</h1>
-<h3 align="center">Backend Developer | CSE @ IIT Indore | Building things that scale</h3>
-
----
-
-### 🚀 About Me
-
-- 🎓 CSE student at **IIT Indore**
-- 🛠️ Focused on **full-stack development, backend engineering & systems programming**
-- 🧠 Sharpening problem-solving skills
+<h1 align="center">Darshik Ladhe 👋</h1>
+<h3 align="center">CSE @ IIT Indore | Always Learning, Always Building</h3>
 
 ---
 
@@ -39,24 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshik924&theme=dracula&hide_border=true" />
-</p>
-
----
-
-### 🏆 Competitive Programming
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Darshik">
-    <img src="https://img.shields.io/badge/Codeforces-Darshik-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
 
 ---
 
